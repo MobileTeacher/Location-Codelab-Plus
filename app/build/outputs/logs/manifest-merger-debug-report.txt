@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/83bb29e59fab60e4cd1b675a3b77b72f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/2badca4b61b66d0395d3debd69f67db5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2d01fc9334cf246015c89f9f08243657/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/c2ff75bd95a4758abade5dc084ca92af/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/a3cd2058ff89dd5bd3291cdcbe70691a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/cd17c92736f486562cdb3d03b9fe88f6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/926bcfd1277a9ee9b067455585c44cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/fd4e18353847d53cb631647c8e605bf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/904fc057ef6f015675d646e1cc49f81c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/fbfcd3f2ae723ae0c9e2e31403153c8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/f3abbfaf5b6e57d217dad19f19978226/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f1020f7cadd5269b82fdd00513af6091/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/698f08f43f4ac18f5296d7924ca47a0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/30f4ece362c9c37a938df022bb471160/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/662ac7897bc24cd586428c6d70560f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/eba0bd61a1d3d8601651f8b94b20530c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/34cbb6607498642fa46767c78c549b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2b19cc0f63353960bf75dc712cd9ec56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bad5e3d40cf7fabde8c83dc0d01cf677/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/983b2901469e0eaf01d0ab8fd86ab1da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/0dfbd5d87ec68b3403539e67ab271422/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/dfbba2cedfde7b500aab5c61e233444e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/80583a8e43d8ef45ed2a8f2d07302ed2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/3b4a39f6816dbd916c13b54c7d17c1f9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/901104717ca3b43fc4501be294ca894f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/e9541ece35f2c97a2a76e07006114d8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1ebf2ddfe775b8495e13b13b667191b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2f6e835f215387afbbb6b0aa905c0782/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/331c34965cf83ad6d471b6e34b26dcfd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/684fb74b77b936dc2e196adc30d830ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/c63d5f923da6218274b7e8f3b1753912/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/e212edb148ae24b22cc22bcd64a3a9b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0669a0b0e166f5a54ffedbe030253337/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a34301a3950eaa01757e72aa0a3a1bd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/95b18c11920fccbb382d3a0f63a0a5ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6a9860acfc907b172ec9de723813207a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+	package
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:5-48
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-39:12
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:22-76
+application
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:22:5-37:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/2badca4b61b66d0395d3debd69f67db5/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/2badca4b61b66d0395d3debd69f67db5/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2d01fc9334cf246015c89f9f08243657/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2d01fc9334cf246015c89f9f08243657/AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/c2ff75bd95a4758abade5dc084ca92af/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/c2ff75bd95a4758abade5dc084ca92af/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/a3cd2058ff89dd5bd3291cdcbe70691a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/a3cd2058ff89dd5bd3291cdcbe70691a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/cd17c92736f486562cdb3d03b9fe88f6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/cd17c92736f486562cdb3d03b9fe88f6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/80583a8e43d8ef45ed2a8f2d07302ed2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/80583a8e43d8ef45ed2a8f2d07302ed2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/3b4a39f6816dbd916c13b54c7d17c1f9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/3b4a39f6816dbd916c13b54c7d17c1f9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/80583a8e43d8ef45ed2a8f2d07302ed2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.walkmyandroid.MainActivity
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/83bb29e59fab60e4cd1b675a3b77b72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha02.aar/83bb29e59fab60e4cd1b675a3b77b72f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/2badca4b61b66d0395d3debd69f67db5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/2badca4b61b66d0395d3debd69f67db5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2d01fc9334cf246015c89f9f08243657/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/2d01fc9334cf246015c89f9f08243657/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/c2ff75bd95a4758abade5dc084ca92af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/c2ff75bd95a4758abade5dc084ca92af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/a3cd2058ff89dd5bd3291cdcbe70691a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/a3cd2058ff89dd5bd3291cdcbe70691a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/cd17c92736f486562cdb3d03b9fe88f6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/cd17c92736f486562cdb3d03b9fe88f6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/926bcfd1277a9ee9b067455585c44cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/926bcfd1277a9ee9b067455585c44cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/fd4e18353847d53cb631647c8e605bf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha04.aar/fd4e18353847d53cb631647c8e605bf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/904fc057ef6f015675d646e1cc49f81c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/904fc057ef6f015675d646e1cc49f81c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/fbfcd3f2ae723ae0c9e2e31403153c8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/fbfcd3f2ae723ae0c9e2e31403153c8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/f3abbfaf5b6e57d217dad19f19978226/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/f3abbfaf5b6e57d217dad19f19978226/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f1020f7cadd5269b82fdd00513af6091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f1020f7cadd5269b82fdd00513af6091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/698f08f43f4ac18f5296d7924ca47a0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/698f08f43f4ac18f5296d7924ca47a0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/30f4ece362c9c37a938df022bb471160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/30f4ece362c9c37a938df022bb471160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/662ac7897bc24cd586428c6d70560f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/662ac7897bc24cd586428c6d70560f2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/eba0bd61a1d3d8601651f8b94b20530c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/eba0bd61a1d3d8601651f8b94b20530c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/34cbb6607498642fa46767c78c549b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/34cbb6607498642fa46767c78c549b5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2b19cc0f63353960bf75dc712cd9ec56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2b19cc0f63353960bf75dc712cd9ec56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bad5e3d40cf7fabde8c83dc0d01cf677/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/bad5e3d40cf7fabde8c83dc0d01cf677/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/983b2901469e0eaf01d0ab8fd86ab1da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/983b2901469e0eaf01d0ab8fd86ab1da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/0dfbd5d87ec68b3403539e67ab271422/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/0dfbd5d87ec68b3403539e67ab271422/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/dfbba2cedfde7b500aab5c61e233444e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/dfbba2cedfde7b500aab5c61e233444e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/80583a8e43d8ef45ed2a8f2d07302ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha04.aar/80583a8e43d8ef45ed2a8f2d07302ed2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/3b4a39f6816dbd916c13b54c7d17c1f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/3b4a39f6816dbd916c13b54c7d17c1f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/901104717ca3b43fc4501be294ca894f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/901104717ca3b43fc4501be294ca894f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/e9541ece35f2c97a2a76e07006114d8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/e9541ece35f2c97a2a76e07006114d8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1ebf2ddfe775b8495e13b13b667191b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/1ebf2ddfe775b8495e13b13b667191b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2f6e835f215387afbbb6b0aa905c0782/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2f6e835f215387afbbb6b0aa905c0782/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/331c34965cf83ad6d471b6e34b26dcfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/331c34965cf83ad6d471b6e34b26dcfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/684fb74b77b936dc2e196adc30d830ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/684fb74b77b936dc2e196adc30d830ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/c63d5f923da6218274b7e8f3b1753912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/savedstate-bundle-1.0.0-alpha01.aar/c63d5f923da6218274b7e8f3b1753912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/e212edb148ae24b22cc22bcd64a3a9b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha02.aar/e212edb148ae24b22cc22bcd64a3a9b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0669a0b0e166f5a54ffedbe030253337/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0669a0b0e166f5a54ffedbe030253337/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a34301a3950eaa01757e72aa0a3a1bd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/a34301a3950eaa01757e72aa0a3a1bd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/95b18c11920fccbb382d3a0f63a0a5ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/95b18c11920fccbb382d3a0f63a0a5ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6a9860acfc907b172ec9de723813207a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/6a9860acfc907b172ec9de723813207a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/835fc119ea2e84e8379b5f224dab05a2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/2c41ab6448f9969ef98e26bbaa08c546/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/hallpaz/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/841a8cf747b75aea83be8cb1da4ea4fa/AndroidManifest.xml:24:13-79
