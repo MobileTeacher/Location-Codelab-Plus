@@ -1,3 +1,13 @@
+Location Codelab PLUS
+============
+
+This repository contains a modified version of the [codelab in this link](https://codelabs.developers.google.com/codelabs/advanced-android-training-device-location/index.html?index=..%2F..advanced-android-training#0). 
+
+This version uses the Kotlin programming language and the Architecture Components framework (ViewModel, LiveData).
+
+You'll find the original README content below.
+
+---------------------
 WalkMyAndroid - Starter Code
 ============
 
