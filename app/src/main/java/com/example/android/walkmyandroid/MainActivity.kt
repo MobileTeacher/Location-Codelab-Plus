@@ -16,6 +16,7 @@
 package com.example.android.walkmyandroid
 
 import android.Manifest
+import android.animation.Animator
 import android.content.pm.PackageManager
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -24,10 +25,15 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import kotlinx.android.synthetic.main.activity_main.*
+import android.animation.AnimatorInflater
+import android.animation.AnimatorSet
+
+
 
 class MainActivity : AppCompatActivity() {
 
     lateinit var locationViewModel: LocationViewModel
+    lateinit var rotateAnim: Animator
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -40,10 +46,26 @@ class MainActivity : AppCompatActivity() {
             if (ContextCompat.checkSelfPermission(this, LOCATION_PERMISSION) != PackageManager.PERMISSION_GRANTED){
                     ActivityCompat.requestPermissions(this, arrayOf(LOCATION_PERMISSION), LOCATION_REQUEST_CODE)
             } else {
-                locationViewModel.getLocation()
+                locationViewModel.toggleTracking()
             }
         }
+
+        rotateAnim = AnimatorInflater.loadAnimator(this, R.animator.rotate)
+        rotateAnim.setTarget(imageview_android)
     }
+
+    override fun onResume() {
+        super.onResume()
+        locationViewModel.requestLocationUpdates()
+
+    }
+
+    override fun onPause() {
+        super.onPause()
+        locationViewModel.removeLocationUpdates()
+    }
+
+
 
     private fun subscribe(){
         locationViewModel.lastLocation.observe(this, Observer {location->
@@ -59,7 +81,19 @@ class MainActivity : AppCompatActivity() {
         })
 
         locationViewModel.address.observe(this, Observer {
-            textview_location.text = "${textview_location.text} $it"
+            textview_location.text = "${textview_location.text}\n$it"
+        })
+
+
+        locationViewModel.isTrackingLocation.observe(this, Observer {tracking->
+            if (tracking){
+                button_location.setText(R.string.stop_tracking_location)
+                rotateAnim.start()
+            } else {
+                button_location.setText(R.string.start_tracking_location)
+                textview_location.setText(R.string.textview_hint)
+                rotateAnim.end()
+            }
         })
     }
 
@@ -69,7 +103,7 @@ class MainActivity : AppCompatActivity() {
         when(requestCode){
             LOCATION_REQUEST_CODE -> {
                 if (grantResults[0] == PackageManager.PERMISSION_GRANTED){
-                    locationViewModel.getLocation()
+                    locationViewModel.toggleTracking()
                 }
             }
         }

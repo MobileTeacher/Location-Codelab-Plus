@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="26"
+    abi="x86"
+    api-level="27"
     build-mode="COLD"
-    density="xxhdpi"
+    density="420dpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.3.0"
-    timestamp="1550617439403"
+    timestamp="1550670604554"
     token="3812611778156926542"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="184" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="56" />
+        duration="104" />
     <task
         name="verifier"
-        duration="10" />
+        duration="21" />
 
     <artifact
         location="/Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1550616833217"
+        timestamp="1550668718109"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -77,15 +74,12 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1550617439403"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1550670604554"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

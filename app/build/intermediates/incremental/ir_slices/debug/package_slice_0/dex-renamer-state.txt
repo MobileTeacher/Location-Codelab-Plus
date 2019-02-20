@@ -1,4 +1,4 @@
-#Tue Feb 19 19:45:45 BRT 2019
+#Wed Feb 20 09:59:55 BRT 2019
 base.0=/Users/hallpaz/Workspace/codelabs/WalkMyAndroid/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

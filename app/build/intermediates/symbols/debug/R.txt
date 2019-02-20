@@ -1050,8 +1050,10 @@ int string no_address_found 0x7f0d0033
 int string no_location 0x7f0d0034
 int string search_menu_title 0x7f0d0035
 int string service_not_available 0x7f0d0036
-int string status_bar_notification_info_overflow 0x7f0d0037
-int string textview_hint 0x7f0d0038
+int string start_tracking_location 0x7f0d0037
+int string status_bar_notification_info_overflow 0x7f0d0038
+int string stop_tracking_location 0x7f0d0039
+int string textview_hint 0x7f0d003a
 int style AlertDialog_AppCompat 0x7f0e0000
 int style AlertDialog_AppCompat_Light 0x7f0e0001
 int style Animation_AppCompat_Dialog 0x7f0e0002

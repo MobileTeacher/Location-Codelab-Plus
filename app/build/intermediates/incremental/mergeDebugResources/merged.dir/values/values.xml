@@ -442,13 +442,14 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="get_location">Get Location</string>
     <string name="invalid_location">Localização inválida</string>
-    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
-            \n Timestamp: %3$tr"</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f\n Timestamp: %3$tr"</string>
     <string name="no_address_found">Nenhum endereço encontrado</string>
     <string name="no_location">Sem localização salva</string>
     <string name="search_menu_title">Search</string>
     <string name="service_not_available">Serviço não disponível</string>
+    <string name="start_tracking_location">Inicar tracking</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_tracking_location">Parar tracking</string>
     <string name="textview_hint">Press the button to get the last known
         location
     </string>
