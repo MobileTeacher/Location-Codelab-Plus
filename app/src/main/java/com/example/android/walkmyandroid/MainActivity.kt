@@ -50,19 +50,10 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        locationViewModel.initLocationManager(applicationContext, lifecycle)
+
         rotateAnim = AnimatorInflater.loadAnimator(this, R.animator.rotate)
         rotateAnim.setTarget(imageview_android)
-    }
-
-    override fun onResume() {
-        super.onResume()
-        locationViewModel.requestLocationUpdates()
-
-    }
-
-    override fun onPause() {
-        super.onPause()
-        locationViewModel.removeLocationUpdates()
     }
 
 
